@@ -1,0 +1,23 @@
+ Reading initial data from...
+ /anvil/scratch/x-rnarasimhan/bht_disk/bhtD2.0_cAJS0.80_045_000_q1.85_l4.85_r0.40_sol_33                                                                                                                                                                                                                                                                                                                         
+ BHT directory path:/anvil/scratch/x-rnarasimhan/bht_disk/bhtD2.0_cAJS0.80_045_000_q1.85_l4.85_r0.40_sol_33                                                                                                                                                                                                                                                                                                                         
+  bad coordinate until rg(nrf)=   4.7189999999999994     
+  bad coordinate itry =           0
+  bad coordinate GR  -0.28100000000000058        1.0000000000000000     
+  bad coordinate FLUID    0.0000000000000000        0.0000000000000000     
+ good coordinate until rg(nrf)=   4.9999999999999991     
+ good coordinate itry =           1
+ good coordinate GR   -8.8817841970012523E-016   1.0674388228568674     
+ good coordinate FLUID    0.0000000000000000        0.0000000000000000     
+ good coordinate until rg(nrg)=   5000.0000000000628     
+ good coordinate itry =           0
+ good coordinate GR    1.2551026884466409E-014   1.0515644787302858     
+ good coordinate FLUID   -7.9936057773011271E-015   0.0000000000000000     
+Excision at r=  7.400000000000000E-02
+ Reading psi, alpha, beta_i...
+ Reading hij...
+ Reading Kij...
+ Reading emdg, omeg...
+  0.276163902998E-15  0.000000000000E+00
+  0.827054782295E-07  0.959095241998E+00  0.100000000000E+01
+Deallocating....

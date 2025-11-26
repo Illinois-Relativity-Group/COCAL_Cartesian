@@ -1,0 +1,26 @@
+#created by Rohan Narasimhan 06/11/24
+
+#root:          full path to folder
+root=$PWD
+
+#data           bht, bns, rns, mrns
+data="nst"
+
+#cartesian grid size
+x_min=-25.0
+x_max=25.0
+
+y_min=-25.0
+y_max=25.0
+
+z_min=-25.0
+z_max=25.0
+
+#resolution
+res=500
+
+#COCAl output directory     Should be $root/COCAL_output but change if needed
+output_dir=$root/RNST_tilted_disk_rec
+
+#COCAL reader directory      Should be $root/COCAL_reader but change if needed
+reader_dir=$root/COCAL_reader
